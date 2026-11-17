@@ -3,3 +3,4 @@ O presente projeto consiste na implementação de uma infraestrutura cloud na pl
 
 Página que criei e publiquei no Azure está no link apresentado abaixo.
 (https://simaocloud53.z1.web.core.windows.net/)
+Indisponivel ! 
